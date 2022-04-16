@@ -55,7 +55,7 @@ Feautures and Properties.
 </h3>
 
 <p align="center">
-Wifi Agent is a modern and advanced cyber security program for computers with Gnu / Linux operating systems and related to the creation of fake access points and phishing.
+Wifi Agent is a modern and advanced cyber security program for computers with Gnu / Linux operating systems and related to the creation of fake access points and phishing. <br/>
 It is made for educational purposes.
 </p>
 
@@ -68,7 +68,7 @@ Details
 
  
 1) Phishing 
-  Attack through automatically cloned services targeting user credentials.
+  Attack through automatically cloned services targeting user credentials. <br/>
   It has 12 ready cloned captive portals, including operating systems login, social networks, e-mails etc. </br>
  
 <img src="sc/sc1.png">
@@ -79,7 +79,7 @@ Details
 <p>
  
 2) Malware 
-  Insert malware on the captive portal. 
+  Insert malware on the captive portal. <br/>
   Attack by importing any malware you want so that it can be downloaded by the user.
  
 <img src="sc/sc2.png">
