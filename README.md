@@ -61,3 +61,28 @@ It is made for educational purposes.
 
  
 <br/> <br/> <br/> 
+
+<p>
+ 
+Details
+
+ 
+1) Phishing 
+  Attack through automatically cloned services targeting user credentials.
+  It has 12 ready cloned captive portals, including operating systems login, social networks, e-mails etc. </br>
+ 
+<img src="sc/sc1.png">
+</p>
+
+<br/> <br/> <br/> 
+
+<p>
+ 
+2) Malware 
+  Insert malware on the captive portal. 
+  Attack by importing any malware you want so that it can be downloaded by the user.
+ 
+<img src="sc/sc2.png">
+ 
+ 
+</p>
