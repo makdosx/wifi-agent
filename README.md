@@ -68,7 +68,7 @@ Details
 
  
 1) Phishing 
-  Attack through automatically cloned services targeting user credentials. <br/>
+  Attack through automatically cloned services targeting user credentials.
   It has 12 ready cloned captive portals, including operating systems login, social networks, e-mails etc. </br>
  
 <img src="sc/sc1.png">
