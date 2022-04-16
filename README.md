@@ -60,6 +60,9 @@ It can create captive portal by redirecting users connected to the wireless netw
 It has the ability to forge domain names to redirect the user's requests to the capture portal and also has the ability to insert malware into the capture portal for downloaded by users.
 </p>
 
+  </br>
+
+ <img src="sc/diagram.png">
  
 <br/> <br/> <br/> 
 
@@ -85,7 +88,9 @@ Details
   Insert malware on the captive portal. <br/>
   Attack by importing any malware you want so that it can be downloaded by the user.
  
-<img src="sc/sc2.png">
+<img src="sc/sc2.png"> </br> </br>
+
+<img src="sc/sc3.png">
  
 
 </p>
