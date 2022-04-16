@@ -1,0 +1,12 @@
+
+INSTAGRAM VICTIM FINGERPRINTS => Informations 
+/////////////////////////////////////////////////////// 
+IP: 10.0.0.95 
+Full-Date: 11-03-2022 05:47:50 
+Country:  
+Region:  
+City:  
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-A750FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.58 Mobile Safari/537.36 
+OS-System: Linux 
+/////////////////////////////////////////////////////// 
+
