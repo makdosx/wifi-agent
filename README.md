@@ -67,7 +67,8 @@ It is made for educational purposes.
 Details
 
  
-1) Phishing and spoofing
+1) Phishing and spoofing 
+
    Attack through automatically cloned services targeting user credentials <br/> 
    and spoofing any domain name for go to captive portal.
   It has 12 ready cloned captive portals, including operating systems login, social networks, e-mails etc. </br>
@@ -79,6 +80,7 @@ Details
 
  
 2) Malware 
+
   Insert malware on the captive portal. <br/>
   Attack by importing any malware you want so that it can be downloaded by the user.
  
