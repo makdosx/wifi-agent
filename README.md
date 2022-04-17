@@ -33,7 +33,7 @@ On terminal </br>
 git clone https://github.com/makdosx/wifi-agent.git 
 ```
 ```diff
-chmod -R 777 wifiagent 
+chmod -R 777 wifi-agent 
 ```
 
 ```diff
