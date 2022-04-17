@@ -30,7 +30,7 @@ On terminal </br>
 ```
 
 ```diff
-git clone git://github.com/makdosx/wifi-agent.git 
+git clone https://github.com/makdosx/wifi-agent.git 
 ```
 ```diff
 chmod -R 777 wifiagent 
