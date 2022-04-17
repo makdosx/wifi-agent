@@ -37,7 +37,7 @@ chmod -R 777 wifiagent
 ```
 
 ```diff
-cd mip22
+cd wifi-agent
 ```
 
 ```diff
